@@ -34,8 +34,8 @@ Ouvrez [http://localhost:3000](http://localhost:3000) avec votre navigateur pour
 
 ## Aperçu
 
-[](screenshot/1.png)
+![](screenshot/1.png)
 
-[](screenshot/2.png)
+![](screenshot/2.png)
 
-[](screenshot/3.png)
+![](screenshot/3.png)

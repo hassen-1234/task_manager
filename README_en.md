@@ -34,8 +34,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Preview
 
-[](screenshot/1.png)
+![](screenshot/1.png)
 
-[](screenshot/2.png)
+![](screenshot/2.png)
 
-[](screenshot/3.png)
+![](screenshot/3.png)
