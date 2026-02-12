@@ -2,7 +2,7 @@
 
 [English](README_en.md) | [العربية](README.md)
 
-Une application moderne de gestion de tâches construite avec Next.js, React, Tailwind CSS, Framer Motion et DaisyUI.
+Un application moderne de gestion de tâches construite avec Next.js, React, Tailwind CSS, Framer Motion et DaisyUI.
 
 ## Fonctionnalités
 - **Gestion des tâches** : Créez, mettez à jour et organisez vos tâches quotidiennes efficacement.
