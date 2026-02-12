@@ -1,6 +1,6 @@
 # Task Management System
 
-[Français](README_fr.md) | [English](README_en.md)
+[Français](README_fr.md) | [العربية](README.md)
 
 A modern task management application built with Next.js, React, Tailwind CSS, Framer Motion, and DaisyUI.
 
@@ -8,7 +8,7 @@ A modern task management application built with Next.js, React, Tailwind CSS, Fr
 - **Task Management**: Create, update, and organize your daily tasks efficiently.
 - **Modern UI**: Clean and intuitive interface.
 - **Responsive Design**: Adaptable for mobile, tablet, and desktop.
-- **Smooth Animations**: Enhanced user experience with Framer Motion animations.
+- **Smooth Animation**: Enhanced user experience with Framer Motion animation.
 - **Fast Performance**: Built on Next.js for optimal speed.
 
 ## Getting Started

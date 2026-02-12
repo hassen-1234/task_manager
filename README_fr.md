@@ -8,7 +8,7 @@ Une application moderne de gestion de tâches construite avec Next.js, React, Ta
 - **Gestion des tâches** : Créez, mettez à jour et organisez vos tâches quotidiennes efficacement.
 - **Interface Moderne** : Interface claire et intuitive.
 - **Design Responsive** : Adaptable pour mobile, tablette et ordinateur.
-- **Animations Fluides** : Expérience utilisateur améliorée avec les animations Framer Motion.
+- **Animation Fluide** : Expérience utilisateur améliorée avec animation de Framer Motion.
 - **Performance** : Construit sur Next.js pour une vitesse optimale.
 
 ## Pour commencer
